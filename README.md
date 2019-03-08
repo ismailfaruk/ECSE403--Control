@@ -16,7 +16,7 @@ Lab experiments were done using an ARM processor on an Altera DE1-SoC single boa
 
 *	[**Lab4**](Lab%204/Lab%20Report%204.pdf) - 
 
-*	[**Lab5**](Lab%205/Lab%205%20-%20Report.docx) - 
+*	[**Lab5**](Lab%205/Lab%205%20-%20Report.pdf) - 
 
 * [**Project Week 1**](Project/Report%206%20-%20403.pdf) - 
 
