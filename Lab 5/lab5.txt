@@ -1,0 +1,33 @@
+Q1
+GM inifinity 
+PM: 19.8 deg (23.8rad/s)
+
+
+
+Q2 kp = 0.05
+
+Q3
+
+d) phase = -159 deg
+
+pm = 60
+
+phas diff = 39 deg
+
+safety margin = 10
+
+phi = 49
+
+
+e) alpha = 7.1536
+
+gain = -8.5452
+
+
+T=6.2314*10^-3
+
+
+
+
+
+

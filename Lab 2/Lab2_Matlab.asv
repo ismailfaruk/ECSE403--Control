@@ -1,0 +1,10 @@
+
+% Q3
+w_omega = [0.1 1 10 100 1000];
+amplitude = [14 0.1985 2e-3 0 0];
+
+x = 10.*log10(w_omega);
+y = 20.*log10(amplitude);
+plot(x,y);
+
+

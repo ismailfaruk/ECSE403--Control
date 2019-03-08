@@ -1,0 +1,15 @@
+Input = Square Wave
+Amp 10
+F = 0.5 Hz
+
+Kp = 0.14
+
+Overshoot = 13.432
+
+
+Stead-State = 12.6
+
+
+Steady-State error = 26%
+
+Rise time 0.116s

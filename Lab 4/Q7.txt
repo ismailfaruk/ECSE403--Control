@@ -1,0 +1,14 @@
+
+amp = 15
+a)
+kp =0.05
+settling time = 0.36s
+higher steady state error
+
+
+kp =0.05;  kd = 0.00015
+settling time = 0.35s
+
+b)kP=0.51 Kd=0.00009
+settling time = 0.36s
+ss = 14
