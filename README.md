@@ -6,7 +6,7 @@ This reopository contains the laboratory projects done for the course ECSE 403, 
 
 Lab experiments were done using an inverted pendulum on a cart.
 
-* **Lab0** - **Introduction** - Flashing the computer system onto the board and running the demo program
+* **Lab0** - **Introduction**
 
 *	[**Lab1**](Lab%201/Lab%201%20Report.pdf) - Designed and implemented linear controllers in Matlab, with a mathematical model of the system.
 
