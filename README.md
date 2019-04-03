@@ -31,8 +31,8 @@ Lab experiments were done using an inverted pendulum on a cart.
 ## Authors
 
 * [**Ismail Faruk**](https://github.com/ismailfaruk)
-* **Mohamed Reda El Khili**
-* **Francois-Eliott Rousseau**
+* [**Mohamed Reda El Khili**](linkedin.com/in/mohamed-reda-el-khili-95b446b1/)
+* [**Francois-Eliott Rousseau**](https://www.linkedin.com/in/françois-eliott-rousseau-934bb4149)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
